@@ -10,7 +10,8 @@ function initVue() {
       // 'lastname': '',
       // 'bgClasses': 'bg-green',
       // 'counter': 0,
-      "text": "Esempio testo nell'h1"
+      "text": "Esempio testo",
+      "tram": "tram.png"
     },
     methods: {
       // fullName: function() {
